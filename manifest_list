@@ -1,0 +1,6 @@
+dbcaturra/miescuela:latest
+dbcaturra/miescuela:arm32v7
+dbcaturra/miescuela:arm64v8
+dbcaturra/miescuela:linux_amd64
+dbcaturra/miescuela:windows_amd64
+
